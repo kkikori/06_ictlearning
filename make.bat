@@ -1,0 +1,1 @@
+g++ -finput-charset=cp932 -fexec-charset=cp932 %1 %2 %3 %4 %5
